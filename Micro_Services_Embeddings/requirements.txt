@@ -1,0 +1,8 @@
+einops
+fastapi
+uvicorn
+torch
+pydantic
+aioredis
+transformers
+huggingface_hub[hf_xet]
